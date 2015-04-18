@@ -20,3 +20,7 @@ In my case, I have chosen the no. of links visited the terminating condition:
 
 
 The program takes, a string as input i.e. first wiki page you intend to start your search from, then it keeps on crawling untill it finds the safe heaven i.e. Philosophy wiki page.
+
+
+Also do visit the link below, it graphically and beautifully shows how, Philosophy can be reached from any node(Article).
+ Link : http://www.xefer.com/wikipedia 
