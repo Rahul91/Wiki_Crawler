@@ -12,9 +12,11 @@ This crawler, does exactly what it intends to : Crawling. It crwals through the 
 The program is really very simple and interesting, not to forget that the most important thing in the program is to have an terminatig condiotion, without which it might keeps on crawling, wasitng memory space and time.
  
 In my case, I have chosen the no. of links visited the terminating condition:
-            if(i==100):                 #if link count reaches hundred, the program aborts
-				      print "Quitting"
-				      sys.exit(1)
+        
+        if (i==100):				#Quits if the link count reaches 100
+        	print "Quitting"
+        	sys.exit(1)
+
 
 
 The program takes, a string as input i.e. first wiki page you intend to start your search from, then it keeps on crawling untill it finds the safe heaven i.e. Philosophy wiki page.
