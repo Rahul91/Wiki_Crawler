@@ -21,6 +21,20 @@ In my case, I have chosen the no. of links visited the terminating condition:
 
 The program takes, a string as input i.e. first wiki page you intend to start your search from, then it keeps on crawling untill it finds the safe heaven i.e. Philosophy wiki page.
 
+#Demo
 
+Demo of the crawler works:
+
+1. Execute the program, and tye in any name, this will be the starting point for your crwaler, one thing to keep in mind that, whatever you type-in, should have an wiki page.
+![alt tag](https://github.com/Rahul91/Wiki_Crawler/blob/master/images/start.png)
+
+2. We can see that its crawling, pages after pages. We can see that, the number of pages it has crawled.
+![alt tag](https://github.com/Rahul91/Wiki_Crawler/blob/master/images/processing.png)
+
+3. Finished processing, as it has reached Philosophy page.
+![alt tag](https://github.com/Rahul91/Wiki_Crawler/blob/master/images/finished.png)
+
+
+#Extra
 Also do visit the link below, it graphically and beautifully shows how, Philosophy can be reached from any node(Article).
  Link : http://www.xefer.com/wikipedia 
