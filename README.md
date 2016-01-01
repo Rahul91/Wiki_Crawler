@@ -9,7 +9,7 @@ Link :  http://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
 
 This crawler, does exactly what it intends to : Crawling. It crwals through the first link of any wiki page untill it finds the Philosophy page.
 
-The program is really very simple and interesting, not to forget that the most important thing in the program is to have an terminatig condiotion, without which it might keeps on crawling, wasitng memory space and time.
+The program is really very simple and interesting, not to forget that the most important thing in the program is to have an terminatig condition, without which it might keeps on crawling, wasitng memory space and time.
  
 In my case, I have chosen the no. of links visited the terminating condition:
         
